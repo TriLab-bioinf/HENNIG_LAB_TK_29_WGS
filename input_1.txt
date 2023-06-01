@@ -1,0 +1,1 @@
+/data/COVID19-RNAseq/2way_test/WGS_script_HERNAN/00-raw/test/test_R1_001.fastq.gz

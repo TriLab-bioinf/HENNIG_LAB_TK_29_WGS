@@ -1,0 +1,4 @@
+#SWARM --time 4:00:00
+
+sh ./scripts/WGS-pipeline-step1-fastqc.sh ${CONFIG_FILE}
+
